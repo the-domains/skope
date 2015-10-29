@@ -1,0 +1,23 @@
+name: skope
+favicon: null
+layout_spectrum: 0.5376509134657681
+typography_spectrum: 0.606343520572409
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.994541249005124
+  lightness: 0.9030946514103562
+  saturation: 0.8805560206528753
+  rhythmicContrast: 0.24134798254817724
+purpose: []
