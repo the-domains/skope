@@ -2,12 +2,13 @@ name: skope
 favicon: null
 layout_spectrum: 0.5376509134657681
 typography_spectrum: 0.606343520572409
+title: SkopeAI
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-42921868-2
   facebook: null
   twitter: null
 opengraph:
