@@ -1,24 +1,36 @@
-name: skope
-favicon: null
-layout_spectrum: 0.5376509134657681
-typography_spectrum: 0.606343520572409
 title: SkopeAI
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.880556
+  brandStrength: 0.994541249005124
+  lightness: 1
+  brandColors: []
+  rhythmicContrast: 0.7459721
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: UA-42921868-2
   facebook: null
-  twitter: null
+favicon: null
+name: skope
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors: []
-  brandStrength: 0.994541249005124
-  lightness: 0.9030946514103562
-  saturation: 0.8805560206528753
-  rhythmicContrast: 0.24134798254817724
-purpose: []
+typography_spectrum: 0.606343520572409
+layout_spectrum: 1
